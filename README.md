@@ -1,9 +1,9 @@
 # Age-GenderClassification-Adience-Dataset
 
-##ADIENCE DATASET ZIPPED FOLDER:
+## ADIENCE DATASET ZIPPED FOLDER:
 'https://drive.google.com/file/d/1QpvTFJrsJlqnJ1oF7_iXdj0ub1iun8xq/view?usp=sharing'
 
-##TRAINED MODEL:
+## TRAINED MODEL:
 
 The model has been trained with different number of epochs. The model
 trained for 3 epochs is at the risk of overfitting the data and hence
@@ -13,7 +13,7 @@ training accuracy of 98% and Validation Accuracy of 100%.
 The trained models have their PyTorch weight files uploaded to the
 repository itself.
 
-##CONTENTS OF JUPYTER NOTEBOOK:
+## CONTENTS OF JUPYTER NOTEBOOK:
 
 -Downloading and root the Audience Dataset folder
 
