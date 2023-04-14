@@ -55,7 +55,11 @@ accuracies
 ## HOW TO RUN THE CODE(directly from GitHub):
 
 -copy the git clone url and import the repository into your notebook
+
 -download zip file of the dataset and unzip it in the same directory as the notebook
-*Now we have all that we require for training or transfer learning*
+
+* Now we have all that we require for training or transfer learning *
+
 -import the desired model already present in the directory for transfer learning
+
 -use pre trained model on a new testing dataset to obtain results
